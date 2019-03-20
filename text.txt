@@ -1,3 +1,7 @@
 ssh-keygen -t rsa -C "282018861@qq.com"
 
+<<<<<<< HEAD
 Add test 1
+=======
+Add test
+>>>>>>> 26f5d112b400dff1defd109974759a585109d6b5
